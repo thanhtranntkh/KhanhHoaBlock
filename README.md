@@ -38,6 +38,9 @@
 
 #**3.WATCHGUARD:**
 
+THAM KHẢO: https://www.smartcloudcomputing.net/2021/02/22/how-to-automatically-blacklist-an-attackers-ip-on-palo-alto/
+
+
                                         #   TẢI ĐANH SÁCH NÀY VỀ VÀ LÀM TUẦN TỰ CÁC BƯỚC SAU
                                          # 1  Select Setup > Default Threat Protection > Blocked Sites.
                                         #        The Blocked Sites Configuration dialog appears.
