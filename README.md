@@ -56,6 +56,19 @@ THAM KHẢO: https://www.smartcloudcomputing.net/2021/02/22/how-to-automatically
 
 #**4. SOPHOS:**
 
+Add IP host : https://community.sophos.com/sophos-xg-firewall/f/recommended-reads/122450/sophos-firewall-creating-xml-objects-with-notepad-for-mass-import
+
+                                                  <?xml version="1.0" encoding="UTF-8"?>
+                                                  <Configuration APIVersion="1905.1" IPS_CAT_VER="1">
+                                                    <IPHost transactionid="">
+                                                      <Name>Azure-Europe-01</Name>
+                                                      <IPFamily>IPv4</IPFamily>
+                                                      <HostType>Network</HostType>
+                                                      <IPAddress>4.207.0.0</IPAddress>
+                                                      <Subnet>255.555.0.0</Subnet>
+                                                    </IPHost>
+                                                   </Configuration>
+
 
 
 
