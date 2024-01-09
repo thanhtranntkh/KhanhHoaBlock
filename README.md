@@ -1,7 +1,12 @@
 # KhanhHoaBlock
 #DANH SÁCH CÁC ĐỊA CHỈ IP CÓ HÀNH VI GÂY MẤT AN TOÀN ĐẾN HỆ THỐNG THÔNG TIN
 #DANH SÁCH ĐƯỢC CẬP NHẬ HẰNG NGÀY
+
+
+
 #I. ĐỂ TRIỂN KHAI CẬP NHẬT DANG SÁCH NGUY HẠI NÀY TRÊN: 
+
+
 #1.ROUTER MIKROTIK:
 #+ CÀI ĐẶT RouterOS Scripts THEO HƯỚNG DẪN TẠI "https://github.com/eworm-de/routeros-scripts".
 #+ CÀI ĐẶT SCRIPTS fw-addr-lists THEO HƯỚNG DÂN TẠI "https://git.eworm.de/cgit/routeros-scripts/about/doc/fw-addr-lists.md"
