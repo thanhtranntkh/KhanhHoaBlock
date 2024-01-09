@@ -32,3 +32,21 @@
 
 
 #**2.PFSENSE:**
+
+
+
+
+#**3.WATCHGUARD:**
+                               TẢI ĐANH SÁCH NÀY VỀ VÀ LÀM TUẦN TỰ CÁC BƯỚC SAU
+                               1  Select Setup > Default Threat Protection > Blocked Sites.
+                                        The Blocked Sites Configuration dialog appears.
+                              2  To import blocked sites from a file, click the Blocked Sites tab.
+                                        Or, to import blocked sites exceptions, click the Blocked Site Exceptions tab.
+                              3 Click Import.
+                                        The Select a File dialog box appears.
+                              4 Browse to select the file. Click Select a File.
+                                        The sites in the file appear in the Blocked Sites or Blocked Sites Exceptions list.
+                              5 Click OK.
+ 
+
+
