@@ -8,9 +8,18 @@
 
 
 #1.ROUTER MIKROTIK:
+
+
+
+
 #+ CÀI ĐẶT RouterOS Scripts THEO HƯỚNG DẪN TẠI "https://github.com/eworm-de/routeros-scripts".
+
+
 #+ CÀI ĐẶT SCRIPTS fw-addr-lists THEO HƯỚNG DÂN TẠI "https://git.eworm.de/cgit/routeros-scripts/about/doc/fw-addr-lists.md"
+
+
   - lƯU Ý: BỔ SUNG LISTS NÀY VÀO DANH MỤC CỦA global-config-overlay.
+
   # This defines the settings for firewall address-lists (fw-addr-lists).
 #:global FwAddrLists {
 #  "allow"={
@@ -24,5 +33,6 @@
 #  };
 #};
 #:global FwAddrListTimeOut 1d;
+
 
 #2.PFSENSE:
